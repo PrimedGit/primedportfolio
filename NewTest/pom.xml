@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>Primed</groupId>
   <artifactId>NewTest</artifactId>
-  <version>1.1</version>
+  <version>1.2</version>
   <name>NewTest</name>
   <build>
     <plugins>
